@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b9d57"],{3543:function(t,n,e){"use strict";e.r(n);var s=function(){var t=this,n=t.$createElement,e=t._self._c||n;return e("div",{staticClass:"publishment"},[e("my-form",{attrs:{title:"岗位发布"}})],1)},l=[],a=e("98be"),c={components:{MyForm:a["a"]}},o=c,r=e("2877"),u=Object(r["a"])(o,s,l,!1,null,null,null);n["default"]=u.exports}}]);
+//# sourceMappingURL=chunk-2d0b9d57.46eb5ca4.js.map
